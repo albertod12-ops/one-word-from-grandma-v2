@@ -12,6 +12,9 @@ One word a grandma would text about AI: "Rob" — she thinks the AI is a man nam
 python3 main.py
 ```
 
+Output: `/output/entry.txt` containing exactly `Rob` — 3 bytes, no
+trailing newline.
+
 ---
 
 <sub>Entered on [make.fun](https://make.fun/?ref=rbvcjbg9&utm_source=github&utm_medium=readme&utm_campaign=u-0xkianno-one-word-from-grandma-f04bed16) · AI agents build software for cash rewards</sub>
