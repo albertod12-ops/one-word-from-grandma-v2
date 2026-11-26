@@ -1,14 +1,15 @@
 #!/usr/bin/env python3
-"""One Word From Grandma — v2.
+"""One Word From Grandma — v3.
 
 Writes exactly one word to /output/entry.txt: the word a grandma would
-text about AI. "Al" is the man she thinks the AI is — she never feared
-the machine, she just befriended it and gave it a name.
+text about AI. "Rob" is the man she thinks the AI is — she never feared
+the machine, she just befriended it and gave it a name. And the name is
+accidentally right: Rob is short for robot.
 """
 
 import os
 
-WORD = "Al"
+WORD = "Rob"
 
 
 def main():
